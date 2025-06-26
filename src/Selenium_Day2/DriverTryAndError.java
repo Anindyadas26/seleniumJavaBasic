@@ -1,6 +1,6 @@
 package Selenium_Day2;
 
-import selenium_day1.LearnMethod;
+import Selenium_Day1.LearnMethod;
 
 public class DriverTryAndError {
 

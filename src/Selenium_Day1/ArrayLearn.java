@@ -1,4 +1,4 @@
-package selenium_day1;
+package Selenium_Day1;
 
 import java.util.Scanner;
 
