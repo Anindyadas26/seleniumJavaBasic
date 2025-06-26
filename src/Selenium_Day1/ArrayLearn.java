@@ -27,7 +27,7 @@ public class ArrayLearn {
         for (int i = 0; i<size; i++) {
         	System.out.println("Index " + i +": " + arr[i]);
         	arraSum = arraSum + arr[i];
-        
+        // Git changes try
         }
         System.out.println("Sum Of All Array Element: " + arraSum);
         System.out.println("************");
